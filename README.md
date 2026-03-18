@@ -1,6 +1,6 @@
 # 🚀 Microsoft Fabric End-to-End Data Platform
 
-![Dashboard](dashboard.jpeg)
+![Dashboard](dashboard.jpg)
 
 ## 📊 Sales Analytics Example
 
@@ -16,7 +16,7 @@ It covers the full lifecycle of data:
 
 ## 🏗️ Architecture
 
-![Architecture](architecture.png)
+![Architecture](architecture.jpg)
 
 The solution follows a **Medallion Architecture**:
 
@@ -28,7 +28,7 @@ The solution follows a **Medallion Architecture**:
 
 ## 🔄 Data Pipeline
 
-![Pipeline](pipeline.png)
+![Pipeline](pipeline.jpg)
 
 A Fabric pipeline orchestrates the full process:
 
@@ -41,7 +41,7 @@ A Fabric pipeline orchestrates the full process:
 
 ## 🗄️ Lakehouse Structure
 
-![Lakehouse](lakehouse.png)
+![Lakehouse](lakehouse.jpg)
 
 The Lakehouse is structured into three layers:
 
@@ -53,7 +53,7 @@ The Lakehouse is structured into three layers:
 
 ## 🧠 Semantic Model
 
-![Model](semantic_model.png)
+![Model](semantic_model.jpg)
 
 The semantic model exposes business metrics such as:
 
