@@ -1,7 +1,7 @@
 # 🚀 Microsoft Fabric End-to-End Data Platform
 
 <img src="Dashboard.jpg" width="700">
-
+Microsoft Fabric | Lakehouse | Medallion Architecture | Power BI | Data Engineering | End-to-End Example
 ## 📊 Sales Analytics Example
 
 This project demonstrates how to build a complete modern data platform using Microsoft Fabric.
