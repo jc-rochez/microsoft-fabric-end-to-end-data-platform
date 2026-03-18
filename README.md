@@ -1,6 +1,6 @@
 # 🚀 Microsoft Fabric End-to-End Data Platform
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.jpeg)
 
 ## 📊 Sales Analytics Example
 
