@@ -7,6 +7,7 @@ Microsoft Fabric | Lakehouse | Medallion Architecture | Power BI | Data Engineer
 ## 📊 Sales Analytics Example
 
 This project showcases how to build an end-to-end modern data platform using Microsoft Fabric, from raw data ingestion to business-ready analytics.
+It enables scalable, reliable, and analytics-ready data processing for business insights.
 
 It includes a full Medallion architecture (Bronze, Silver, Gold), a semantic model, and a Power BI dashboard.
 
@@ -98,7 +99,13 @@ The goal of this project is to provide a **simple and complete example** of a Mi
 It can be used for:
 - Learning Microsoft Fabric  
 - Demonstrating data engineering skills  
-- Building a starter kit for real-world projects  
+- Building a starter kit for real-world projects
+
+---
+
+## ⭐ Support
+
+If you found this project useful, feel free to give it a star ⭐
 
 ---
 
