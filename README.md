@@ -107,8 +107,4 @@ It can be used for:
 
 If you found this project useful, feel free to give it a star ⭐
 
----
 
-## ⭐ If you found this useful
-
-If this project helps you, feel free to give it a ⭐ on GitHub!
