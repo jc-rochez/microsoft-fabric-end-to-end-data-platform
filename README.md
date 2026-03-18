@@ -1,5 +1,7 @@
 # 🚀 Microsoft Fabric End-to-End Data Platform
 
+![Dashboard](dashboard.png)
+
 ## 📊 Sales Analytics Example
 
 This project demonstrates how to build a complete modern data platform using Microsoft Fabric.
